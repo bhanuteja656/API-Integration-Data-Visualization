@@ -26,3 +26,7 @@ This type of task has several real-world applications. Weather-based visualizati
 
 In conclusion, this project combined practical programming, real-time data usage, and data visualization into a cohesive application. It helped me gain confidence in working with APIs, manipulating datasets using pandas, and creating visual outputs using Seaborn. Most importantly, it demonstrated how even a beginner-level Python script can connect with powerful external systems and produce meaningful, real-world insights. This exercise is an excellent stepping stone for deeper learning in data science, full-stack development, or machine learning workflows.
 
+#OUTPUT
+
+<img width="1001" alt="Image" src="https://github.com/user-attachments/assets/9e827090-346e-408a-8f3f-083529dfa377" />
+
